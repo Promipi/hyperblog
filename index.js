@@ -1,5 +1,5 @@
 console.log("Aprendiendo git y githubbbbbbbbbbbb ");
 
-console.log("Nuevo cambio")
+let array = [1,2,3,4,5,6,7]
 
-console.log("Segundo cambio")
+console.log(array.map(x=>x*2))
