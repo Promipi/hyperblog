@@ -1,2 +1,2 @@
-# hyperblog
-para el curso de platzi 
+#Hyperblog
+>Me gusto mucho este curso porque aprendi una buena base de git y github con platzi day : )
