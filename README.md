@@ -3,3 +3,6 @@
 
 *Creado por promipi
 *uwu
+*uwu
+*incluye mucho amor he,i 
+*apto para todos
