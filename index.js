@@ -6,4 +6,6 @@ let arrayDeElisa = ["hola","soy","elisa"];
 
 console.log("MASTER 1");
 
+console.log("MASTER 2");
+
 console.log(array.map(x=>x*2)) 
